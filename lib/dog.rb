@@ -7,6 +7,11 @@ def sit
   end
 end
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 255e180b5e7ec0092c85a9e9cf23a6003b74b961
 fido = Dog.new 
 fido.bark 
 fido.sit 

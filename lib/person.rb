@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Person 
 
 def talk
@@ -14,3 +15,5 @@ ada = Person.new
 
 ada.talk
 ada.walk 
+=======
+>>>>>>> 255e180b5e7ec0092c85a9e9cf23a6003b74b961
